@@ -2,7 +2,7 @@
 
 👌It's really about problem solving more generally.
 
-👌-What is Computer Scince?
+👌-What is Computer Science?
 
 So I want the computer to do something PRECISE,PERFECT AND LOGICAL so obviously I need to think PRECISE,PERFECT AND METHODICAL to make the computer to do that for me. Then COmputer is not going to do it precise If I'm not.
 
